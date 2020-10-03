@@ -1,5 +1,5 @@
 # 🔧 Github-Automation-Tools
-Tools to automate certain tasks
+Tools  to automate certain tasks
 
 ## Instalation
 ```
