@@ -14,7 +14,7 @@ In the body of the issues you should have something like that:
 
 ```
 Issue description
-...
+...                         
 Time : 4h
 ```
 Or
