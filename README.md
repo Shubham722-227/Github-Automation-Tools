@@ -24,7 +24,7 @@ Issue description
 Time : 2h - 1,5d
 ```
 Or
-```     
+```                                             
 Issue description
 ...
 Time : 30m/task
